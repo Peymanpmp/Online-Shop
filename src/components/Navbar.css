@@ -1,0 +1,11 @@
+.root {
+    background-color: rgb(220, 246, 247);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.root > a {
+    font-weight: 500;
+    font-size: 20px;
+}
